@@ -29,7 +29,7 @@ data point
 n is the number of point, m is the dimension including label
 
 - - -
-data_generted.cpp
+data_genertaed.cpp
 MVN.h
 to
 data_generated.exe
@@ -62,3 +62,6 @@ to
 
 split.exe
 
+---
+
+First, run data_generated.exe to generate data, split.exe to devide it into train.txt and test.txt, standard_svm.exe and CF.exe to train standard_svm.model and CF-tree.model, model_evalution.exe to get the accuracy result of test.txt
