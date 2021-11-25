@@ -1,3 +1,5 @@
+The project is based on [Classifying large data sets using SVMs with hierarchical clusters](https://dl.acm.org/doi/10.1145/956750.956786)
+
 The project is about CB-SVM, homework of data mining.
 
 
